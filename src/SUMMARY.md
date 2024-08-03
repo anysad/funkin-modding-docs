@@ -25,6 +25,12 @@
     - [Creating a Stage](04-custom-stages/04-01-creating-a-stage.md)
     - [Using a Stage in a Song](04-custom-stages/04-02-using-a-stage-in-a-song.md)
 
+- [Custom Cutscenes](22-cutscenes/22-00-cutscenes.md)
+    - [Cutscene Types](22-cutscenes/22-01-cutscene-types.md)
+    - [Creating Video Cutscenes](22-cutscenes/22-02-video-cutscenes.md)
+    - [Creating Dialogue Cutscenes](22-cutscenes/22-03-dialogue-cutscenes.md)
+    - [Creating In-game Cutscenes](22-cutscenes/22-04-ingame-cutscenes.md)
+
 - [Appending And Merging Files](10-appending-and-merging-files/10-00-appending-and-merging-files.md)
     - [Appending Files](10-appending-and-merging-files/10-01-appending-files.md)
     - [Merging Files](10-appending-and-merging-files/10-02-merging-files.md)
